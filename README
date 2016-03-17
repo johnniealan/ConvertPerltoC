@@ -1,0 +1,5 @@
+
+---> To Convert to C source code
+perl convertPerl.pl parseCmd56.pl -o emmcHealthParser.c
+
+
