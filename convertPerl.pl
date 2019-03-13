@@ -94,7 +94,6 @@ sub Cheader {
 /* **************************************************
  *  C wrapper for perl, created by $PROGNAME
  *  Author: Johnnie J. Alan
- *  Company: ALC
  * ************************************************** */
 TOP
 
